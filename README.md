@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [AI Interview Prep](https://github.com/Deveshvishwakarma004/AI_Interview_Prep.git)
 
-- 🌱 I’m currently learning **Machine learning , NEXT JS and Django**
+- 🌱 I’m currently learning **DevOps, NEXT JS and Python**
 
-- 💬 Ask me about **React , Express , Aws**
+- 💬 Ask me about **Aws, MERN**
 
 - 📫 How to reach me **deveshv0412@gmail.com**
 

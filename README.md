@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshvishwakarma004&label=Profile%20views&color=0e75b6&style=flat" alt="deveshvishwakarma004" /> </p>
 
-- 🔭 I’m currently working on [AI Interview Prep](https://github.com/Deveshvishwakarma004/AI_Interview_Prep.git)
+- 🔭 I’m currently working on [Preptly](https://github.com/Deveshvishwakarma004/Preptly.git)
 
 - 🌱 I’m currently learning **Devops, NEXT JS and Python**
 
